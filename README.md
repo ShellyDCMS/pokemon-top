@@ -1,6 +1,9 @@
 ![pokemon-top](https://github.com/danduh/pokemon-top/actions/workflows/test-actions.yml/badge.svg)
 ![pokemon-top-pages](https://github.com/danduh/pokemon-top/actions/workflows/deploy-pages-actions.yml/badge.svg)
 
+[Live Demo](https://shellydcms.github.io/pokemon-top/home)
+[Documentation](https://shellydcms.github.io/pokemon-top/home)
+
 # List / Search (home page)
 
 - search by pokemon name
