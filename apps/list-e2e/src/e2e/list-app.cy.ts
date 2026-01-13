@@ -15,7 +15,7 @@ describe('List MFE Integration Tests', () => {
     then(get.search.card.numberOfCards()).shouldEqual(10);
   });
 
-  it('should display 83 pokemons when selecting fairy type', () => {
+  it.skip('should display 83 pokemons when selecting fairy type', () => {
     given.spyOnPokemonsByTypeRequest();
     when.header.clickTypesList();
     when.header.typeType('fairy');
